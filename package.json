@@ -1,0 +1,22 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "bamazon homework",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drthusker/bamazon.git"
+  },
+  "author": "dave",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drthusker/bamazon/issues"
+  },
+  "homepage": "https://github.com/drthusker/bamazon#readme",
+  "keywords": [
+    "bamazon"
+  ]
+}
