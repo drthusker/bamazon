@@ -1,0 +1,10 @@
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('110011', 'XBOX One', 'Gaming', '499', '18');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('110012', 'Sony PlayStation', 'Gaming', '459', '16');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('220001', 'Computer Mouse', 'Computer', '45', '30');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('220010', 'Computer Keyboard', 'Computer', '56', '38');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('220021', 'USB Headset', 'Computer', '34', '14');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('330033', 'Samsung 65 inch TV', 'TV', '1749', '20');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('330034', 'Samsung TV Stand', 'TV', '289', '33');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('330050', 'Sony Blue Ray', 'TV', '312', '18');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('440049', 'Pioneer Car Stero', 'Car', '478', '8');
+INSERT INTO products (item_id, product_name, department, price, stock_quantity) VALUES ('440079', 'Pioneer Car Speakers', 'Car', '145', '25');
